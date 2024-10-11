@@ -3,4 +3,6 @@ Se presenta un menú en pantalla y permite al usuario seleccionar una opción me
 Utilizando una estructura de control tipo 'switch', gestiona diferentes casos para resolver problemas matemáticos básicos, 
 facilitando así cálculos como suma, resta, multiplicación y división de manera intuitiva
 
-El desarrollo se realizó en IntelliJ IDEA utilizando Java en 2017.
+Desarrollado con:
+JDK 17 LTS
+IntelliJ IDEA (2024)
